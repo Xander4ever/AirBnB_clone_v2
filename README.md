@@ -4,7 +4,7 @@ This repository contains the initial stage of a student project to build a clone
 
 ---
 
-information: Aworh Rex
+information: Aworh Rex (github.com/Xander4ever/)
 
 <center><h3>Repository Contents by Project Task</h3> </center>
 
